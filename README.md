@@ -13,3 +13,5 @@ git clone git://github.com/SvOlli/openwrt-links2.git links2
 cd ..
 make
 ```
+If anyone would like to include this in the official distribution,
+I'd be happy.
