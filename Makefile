@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=links
-PKG_VERSION:=2.12
+PKG_VERSION:=2.14
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://links.twibright.com/download
-PKG_MD5SUM:=1c3ea3f57d73e7d03e2462087c28803f
+PKG_MD5SUM:=2131be3232d05c56366ca3da8c7d4218
 PKG_MAINTAINER:=SvOlli <svolli@svolli.de>
 
 PKG_LICENSE:=GPL
